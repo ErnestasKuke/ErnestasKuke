@@ -36,5 +36,6 @@ I am a highly creative and innovative individual who possesses a unique ability 
 <details>
  <summary><h3>👨‍💻 Coding Journey</h3></summary>
    Info
+<details>
  <summary><h3>👨‍💻 Hobbies</h3></summary>
    Info
