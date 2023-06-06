@@ -24,6 +24,7 @@ I am a highly creative and innovative individual who possesses a unique ability 
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"/> 
 <img align="left" alt="Figma" width="30px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma"/>
+<img align="left" alt="Figma" width="30px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="Typescript"/>
 <br />
 
 #
@@ -36,6 +37,10 @@ I am a highly creative and innovative individual who possesses a unique ability 
 <details>
  <summary><h3>👨‍💻 Coding Journey</h3></summary>
    Info
-<details/>
- <summary><h3>👨‍💻 Hobbies</h3></summary>
+</details>
+
+<details>
+ <summary><h3>👨‍💻 More about me </h3></summary>
    Info
+</details>
+
