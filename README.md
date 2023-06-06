@@ -1,8 +1,8 @@
-# 🏄‍♂️ Ernestas Kuke
+# 👋 Ernestas Kuke
 
 **`Junior software developer`**
 
-I am a highly creative and innovative individual who possesses a unique ability to combine creativity with a methodical and scientific approach. During the 2 years of working in the project management field and 4 years in the coaching field I constantly had to come up with solutions that not only would be innovative and creative but understandable, practical, usable.
+I am a highly creative and innovative individual who possesses a unique ability to combine creativity with a methodical and scientific approach. During the 2 years of working in the project management field and 4 years in the coaching field I constantly had to come up with solutions that not only would be innovative and creative but understandable, practical, usable. Now, I'm trying myself out in the field of IT as it is my long time hobby. 
 
    <!-- Insert gif here -->
 
@@ -34,13 +34,5 @@ I am a highly creative and innovative individual who possesses a unique ability 
 <a href="https://www.linkedin.com/in/ernestas-kuke/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ernestas-kuke/" width="30" /></a>
 </p>
 
-<details>
- <summary><h3>👨‍💻 Coding Journey</h3></summary>
-   Info
-</details>
 
-<details>
- <summary><h3>👨‍💻 More about me </h3></summary>
-   Info
-</details>
 
