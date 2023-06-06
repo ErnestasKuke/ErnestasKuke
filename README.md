@@ -34,5 +34,13 @@ I am a highly creative and innovative individual who possesses a unique ability 
 <a href="https://www.linkedin.com/in/ernestas-kuke/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ernestas-kuke/" width="30" /></a>
 </p>
 
+<details>
+ <summary><h3>🧑‍💻 Coding Journey</h3></summary>
+   I have been interested in coding since my teenage years but always kept it as a hobby and never dived deeper in to it. After a failed attempt to study forensic science and getting bored with the current job at the time (project management) I decided to perhaps turn my hobby in to a full time profession. At some point in life I would love to be making my own video games. So my thinking process at that time was: "What does every video game studio has? Yes, a website". And so I decided to start with web-development - I really enjoyed it. Later on, took a course on python and hot interested in the back-end side of things. I really love the process of learning and studying so I loved that this career path gives me a chance to do that.
+</details>
 
+<details>
+ <summary><h3>🐉 More about me </h3></summary>
+   Besides coding, other hobbies include: video games, dungeons and dragons, board games. I am also very interested in everything paranormal, myths and in general creepy stories 👻
+</details>
 
