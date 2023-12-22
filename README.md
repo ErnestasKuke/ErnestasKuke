@@ -2,7 +2,7 @@
 
 **`Junior software developer`**
 
-I am a highly creative and innovative individual who possesses a unique ability to combine creativity with a methodical and scientific approach. During the 2 years of working in the project management field and 4 years in the coaching field I constantly had to come up with solutions that not only would be innovative and creative but understandable, practical, usable. Now, I'm trying myself out in the field of IT as it is my long time hobby. 
+I am a highly creative and innovative individual who possesses a unique ability to combine creativity with a methodical and scientific approach. During the 2 years of working in the project management field and 4 years in the coaching field I constantly had to come up with solutions that not only would be innovative and creative but understandable, practical, usable.
 
    <!-- Insert gif here -->
 
@@ -36,7 +36,10 @@ I am a highly creative and innovative individual who possesses a unique ability 
 
 <details>
  <summary><h3>🧑‍💻 Coding Journey</h3></summary>
-   I have been interested in coding since my teenage years but always kept it as a hobby and never dived deeper in to it. After a failed attempt to study forensic science and getting bored with the current job at the time (project management) I decided to perhaps turn my hobby in to a full time profession. At some point in life I would love to be making my own video games. So my thinking process at that time was: "What does every video game studio has? Yes, a website". And so I decided to start with web-development - I really enjoyed it. Later on, took a course on python and hot interested in the back-end side of things. I really love the process of learning and studying so I loved that this career path gives me a chance to do that.
+   The first sign that coding was for me was my 7 year-old self downloading cracked games and viruses and then trying to make them work.
+   The second sign was that I spent more time compiling modlists for minecraft and skyrim than playing them.
+   The third was my broken sleeping schedule because I tried to figure out how HTML and CSS worked as a teenager.
+   So I did the thing that made sense. Moved abroad and studied Forensics. Spoiler: that did not turn out the way I had hoped. Went back home and started working as an assistant project manager and then move up to project manager. Couple of projects I have managed were related to tech, web-dev, VR and I thought to myself: "Huh, It would be very fun to actually work on those projects as a developer". And so, finally, the puzzle kind of clicked and I found my place.
 </details>
 
 <details>
