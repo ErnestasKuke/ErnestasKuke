@@ -1,6 +1,6 @@
 # 👋 Ernestas Kuke
 
-**`Junior software developer`**
+**`Software developer`**
 
 I'm a self-taught full-stack developer who thrives on challenging problems that demand learning something new. My project management background gives me a structured approach to breaking down complex requirements, while my curiosity drives me to explore emerging technologies. I'm motivated by building software that's both well-engineered and genuinely useful.
 
